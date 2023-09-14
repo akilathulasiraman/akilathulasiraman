@@ -1,8 +1,11 @@
 **💫 About Me:**
 
-I am Akila Thulasiraman, Software Tester (Debutant)
-ISTQB Certified Tester (foundation)
-🌱 I’m currently learning Automation Testing 
+
+👀 Software Tester (Debutant) Passion with Testing, JIRA, SQL, and Java ...
+🔭 I’m currently working on Manual Testing 
+🌱 I’m currently learning Automation testing Java, Selenium, TestNG, Postman ...
+📫 How to reach me: akilathulasiraman411@gmail.com
+
 
 
 
