@@ -7,6 +7,13 @@
 - 📫 How to reach me: akilathulasiraman411@gmail.com
 
 
+## 📈GitHub Stats
+
+[![Akila’s github stats](https://github-readme-stats.vercel.app/api?username=akilathulasiraman)](https://github.com/akilathulasiraman)
+
+
+
+
 
 
 <!---
